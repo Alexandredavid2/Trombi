@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
+</head>
+
+<body>
+    
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 26</div>
+  <img src="img/image001.jpg" style="width:100%">
+  <div class="text">Caption Text</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 26</div>
+  <img src="img/image002.jpg" style="width:100%">
+  <div class="text">Caption Two</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 26</div>
+  <img src="img/image003.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
+
+<div class="mySlide fade">
+    <div class="numbertext">4/26</div>
+    <img src="img/image004" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">5/26</div>
+    <img src="img/image005" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">6/26</div>
+    <img src="img/image006" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">7/26</div>
+    <img src="img/image007" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">8/26</div>
+    <img src="img/image008" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">9/26</div>
+    <img src="img/image009" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">10/26</div>
+    <img src="img/image010" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">11/26</div>
+    <img src="img/image011" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">12/26</div>
+    <img src="img/image012" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">13/26</div>
+    <img src="img/image013" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">14/26</div>
+    <img src="img/image014" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">15/26</div>
+    <img src="img/image015" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">16/26</div>
+    <img src="img/image016" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">17/26</div>
+    <img src="img/image017" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">18/26</div>
+    <img src="img/image018" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">19/26</div>
+    <img src="img/image019" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">20/26</div>
+    <img src="img/image020" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">21/26</div>
+    <img src="img/image021" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">22/26</div>
+    <img src="img/image022" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">23/26</div>
+    <img src="img/image023" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">24/26</div>
+    <img src="img/image024" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">25/26</div>
+    <img src="img/image025" alt="">
+    <div class="text"></div>
+</div>
+<div class="mySlide fade">
+    <div class="numbertext">26/26</div>
+    <img src="img/image026" alt="">
+    <div class="text"></div>
+</div>          
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+  <span class="dot" onclick="currentSlide(8)"></span>
+  <span class="dot" onclick="currentSlide(9)"></span>
+  <span class="dot" onclick="currentSlide(10)"></span>
+  <span class="dot" onclick="currentSlide(11)"></span>
+  <span class="dot" onclick="currentSlide(12)"></span>
+  <span class="dot" onclick="currentSlide(13)"></span>
+  <span class="dot" onclick="currentSlide(14)"></span>
+  <span class="dot" onclick="currentSlide(15)"></span>
+  <span class="dot" onclick="currentSlide(16)"></span>
+  <span class="dot" onclick="currentSlide(17)"></span>
+  <span class="dot" onclick="currentSlide(18)"></span>
+  <span class="dot" onclick="currentSlide(19)"></span>
+  <span class="dot" onclick="currentSlide(20)"></span>
+  <span class="dot" onclick="currentSlide(21)"></span>
+  <span class="dot" onclick="currentSlide(22)"></span>
+  <span class="dot" onclick="currentSlide(23)"></span>
+  <span class="dot" onclick="currentSlide(24)"></span>
+  <span class="dot" onclick="currentSlide(25)"></span>
+  <span class="dot" onclick="currentSlide(26)"></span> 
+</div>
+</body>
+</html>

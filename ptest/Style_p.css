@@ -1,0 +1,51 @@
+.titre{
+    text-align: center;
+    background-color: ;
+    margin: 0px;
+    padding-bottom: 5px;
+    z-index:2;
+
+}
+.carousel{
+    z-index: 1;
+}
+.titre img{
+    background-size: cover;
+    width: 300px;
+    height: 100px;
+}
+#particles-js{
+    background-color: #ED1651;
+    padding-bottom:200px;
+    z-index: 0;
+    box-shadow: inset 0px 1px 20px 20px #c91042;
+
+}
+.particles-js-canvas-el{
+    position:absolute;
+    top:0;
+
+}
+.slideshow-container .dot{
+    z-index:2;
+}
+
+.titre1{
+    text-align: center;
+    background-color:#c91042 ;
+    margin: 0px;
+    padding-bottom: 5px;
+    z-index:2;
+}
+
+.promo {
+    margin: 0px;
+    font-family: Gentium Book Basic;
+    font-size: 50px;
+}
+.foot {
+    display: block;
+    margin: 0px;
+    font-family: Gentium Book Basic;
+    font-size: 20px;
+}
